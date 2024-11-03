@@ -1,0 +1,49 @@
+// ==UserScript==
+// @name         TV Tropes - Colored Subwikis
+// @namespace    https://stay.app/
+// @version      2024-11-03
+// @description  Restores the old color scheme to YMMV pages
+// @author       Lendri Mujina
+// @match        https://*.tvtropes.org/pmwiki/pmwiki.php/*
+// @match        https://tvtropes.org/pmwiki/pmwiki.php/*
+// @grant        none
+// @icon         https://tvtropes.org/favicon.ico
+// ==/UserScript==
+(function () {
+    'use strict';
+    // Your code here...
+
+  //var bodybg = document.getElementById("main-container");
+  
+  function ifURL(keyword){
+     if (window.location.href.indexOf(keyword) > -1) {
+      return true;
+    }
+  }
+  
+  function styleIt(color1,color2){
+     document.body.style.backgroundColor = color1;
+     document.getElementById("main-content").style.backgroundColor = color2;
+  }
+  
+  const DEFAULT1 = "#E7E7E8";
+  const DEFAULT2 = "#FFFFFF";
+  const YMMV1 = "#000053";
+  const YMMV2 = "#E6E6E6";
+  const TALES = "#F2F0BE";
+  const DARTH1 = "#000000";
+  const DARTH2 = "#DDDDDD";
+  const SUGAR = "#FDB8DB";
+  
+  
+  if (ifURL("/YMMV/")||ifURL("/WMG/")||ifURL("/Fridge/")||ifURL("/Headscratchers/")||ifURL("/TearJerker/")){
+    styleIt(YMMV1,YMMV2);
+      }
+  else if (ifURL("/Trivia/")||ifURL("/JustForFun/")){
+    styleIt(TALES,DEFAULT1);
+  }
+  else if (ifURL("/NightmareFuel")){
+    styleIt(DARTH1,DARTH2);
+  }
+  
+})();
