@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2024-10-25
 // @description  Makes the lingering remnants of the Brightvale portal event go away.
-// @author       You
+// @author       LendriMujina
 // @match        https://www.neopets.com/medieval/brightvale.phtml
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=neopets.com
 // @grant        none
