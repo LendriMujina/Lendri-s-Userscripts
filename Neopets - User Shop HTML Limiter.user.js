@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Neopets - User Shop HTML Limiter
 // @namespace    http://tampermonkey.net/
-// @version      2024-11-01
+// @version      2024-11-03
 // @description  Limit the size of custom shop descriptions by putting them in a scrollbox with a configurable height.
 // @author       Lendri Mujina
 // @include      *://*.neopets.com/browseshop*
 // @match        *://*.neopets.com/browseshop*
+// @downloadURL  https://raw.githubusercontent.com/LendriMujina/Lendri-s-Userscripts/refs/heads/main/Neopets%20-%20User%20Shop%20HTML%20Limiter.user.js
 // @icon         https://pets.neopets.com/cp/j58z8q5z/1/1.png
 // @grant        none
 // ==/UserScript==
