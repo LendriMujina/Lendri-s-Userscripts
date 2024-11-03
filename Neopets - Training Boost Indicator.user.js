@@ -2,13 +2,14 @@
 
     // ==UserScript==
     // @name           Neopets - Training ATK/DEF Boost Indicator
-    // @version        2024-09-30
+    // @version        2024-11-03
     // @namespace      https://www.neopets.com/
     // @match          *://*.neopets.com/island/training.phtml?type=status
     // @match          *://*.neopets.com/island/fight_training.phtml?type=status
     // @match          *://*.neopets.com/pirates/academy.phtml?type=status
     // @description    Provides more info about stats in training schools.
     // @copyright      Lendri Mujina
+    // @downloadURL    https://raw.githubusercontent.com/LendriMujina/Lendri-s-Userscripts/refs/heads/main/Neopets%20-%20Training%20Boost%20Indicator.user.js
     // @icon           https://pets.neopets.com/cp/j58z8q5z/1/1.png
     // @license        MIT
     // @grant          none
