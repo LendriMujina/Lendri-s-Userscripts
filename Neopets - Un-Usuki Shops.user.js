@@ -6,6 +6,7 @@
 // @author       Lendri Mujina
 // @include      *://*.neopets.com/browseshop*
 // @match        *://*.neopets.com/browseshop*
+// @downloadURL  https://raw.githubusercontent.com/LendriMujina/Lendri-s-Userscripts/refs/heads/main/Neopets%20-%20Un-Usuki%20Shops.user.js
 // @icon         https://pets.neopets.com/cp/j58z8q5z/1/1.png
 // @grant        none
 // ==/UserScript==
