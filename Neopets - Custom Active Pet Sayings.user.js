@@ -1,12 +1,12 @@
     // ==UserScript==
     // @name           Neopets - Custom Active Pet Sayings
-    // @version        4.1
+    // @version        2024-11-01
     // @namespace      http://www.neopets.com/
     // @match          *.neopets.com/*
     // @description    Make your active pet occasionally talk, just like in the old layout.
     // @copyright      Lendri Mujina
     // @license        MIT
-    // @icon           https://www.google.com/s2/favicons?sz=64&domain=neopets.com
+    // @icon           https://pets.neopets.com/cp/j58z8q5z/1/1.png
     // @grant          none
     // ==/UserScript==
      
