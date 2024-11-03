@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Neopets - HTML5 Pet Lookup Fix
 // @namespace    http://tampermonkey.net/
-// @version      2024-11-02
+// @version      2024-11-03
 // @description  Replaces the often-incomplete renders with static images.
 // @author       Lendri Mujina
 // @include      *://www.neopets.com/petlookup*
 // @include      *://www.neopets.com/pl_preview.phtml?pet=*
+// @downloadURL  https://raw.githubusercontent.com/LendriMujina/Lendri-s-Userscripts/refs/heads/main/Neopets%20-%20HTML5%20Pet%20Lookup%20Fix.user.js
 // @icon         https://pets.neopets.com/cp/j58z8q5z/1/1.png
 // @grant        none
 // ==/UserScript==
