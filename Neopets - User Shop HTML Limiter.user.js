@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2024-11-01
 // @description  Limit the size of custom shop descriptions by putting them in a scrollbox with a configurable height.
-// @author       LendriMujina
+// @author       Lendri Mujina
 // @include      *://*.neopets.com/browseshop*
 // @match        *://*.neopets.com/browseshop*
 // @icon         https://pets.neopets.com/cp/j58z8q5z/1/1.png
