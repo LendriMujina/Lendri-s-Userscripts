@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Neopets - Codestone Counter
 // @namespace    http://tampermonkey.net/
-// @version      2024-11-02
+// @version      2024-11-03
 // @description  Quickly view required training items, with a link to retrieve them.
 // @author       Lendri Mujina
 // @match        *.neopets.com/island/training.phtml?type=status*
