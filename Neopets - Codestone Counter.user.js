@@ -7,7 +7,7 @@
 // @match        *.neopets.com/island/training.phtml?type=status*
 // @match        *.neopets.com/island/fight_training.phtml?type=status*
 // @match        *.neopets.com/pirates/academy.phtml?type=status*
-// @downloadURL  https://raw.githubusercontent.com/LendriMujina/Lendri-s-Userscripts/refs/heads/main/Neopets%20-%20Codestone%20Counter.user.js
+// @downloadURL  https://github.com/LendriMujina/Lendri-s-Userscripts/raw/refs/heads/main/Neopets%20-%20Codestone%20Counter.user.js
 // @icon         https://pets.neopets.com/cp/j58z8q5z/1/1.png
 // @grant        none
 // ==/UserScript==
