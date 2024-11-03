@@ -13,8 +13,8 @@
 (function () {
   'use strict';
         var nameLocation = document.querySelector('[style="font-weight: bold; font-size: 18px;"]').textContent;
-        var petThe = nameLocation.lastIndexOf(" the ");
-        var petName = nameLocation.substr(0,petThe); //These two lines borrowed from old script
+        var petThe = nameLocation.lastIndexOf(" the "); //Though EXTREMELY rare, some very, very old pets created as Grundos may have this substring in their names. This accounts for that.
+        var petName = nameLocation.substr(0,petThe);
         let imgContainer = document.querySelector("#CustomNeopetView.pet_image_container");
         imgContainer.style = "width:400px;height:400px;border:1px solid #000;padding-top:0;background:url('http://pets.neopets.com/cpn/" + petName + "/1/7.png') center / cover no-repeat;";
         document.querySelector("#CustomNeopetView > div").style = "display:none;";
