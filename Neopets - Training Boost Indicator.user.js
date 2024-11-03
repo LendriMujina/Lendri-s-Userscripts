@@ -9,7 +9,7 @@
     // @match          *://*.neopets.com/pirates/academy.phtml?type=status
     // @description    Provides more info about stats in training schools.
     // @copyright      Lendri Mujina
-    // @icon           https://www.google.com/s2/favicons?sz=64&domain=neopets.com
+    // @icon           https://pets.neopets.com/cp/j58z8q5z/1/1.png
     // @license        MIT
     // @grant          none
     // ==/UserScript==
