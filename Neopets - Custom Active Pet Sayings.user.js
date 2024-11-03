@@ -1,14 +1,17 @@
     // ==UserScript==
     // @name           Neopets - Custom Active Pet Sayings
-    // @version        2024-11-01
+    // @version        2024-11-03
     // @namespace      http://www.neopets.com/
     // @match          *.neopets.com/*
     // @description    Make your active pet occasionally talk, just like in the old layout.
     // @copyright      Lendri Mujina
+    // @downloadURL    https://raw.githubusercontent.com/LendriMujina/Lendri-s-Userscripts/refs/heads/main/Neopets%20-%20Custom%20Active%20Pet%20Sayings.user.js
     // @license        MIT
     // @icon           https://pets.neopets.com/cp/j58z8q5z/1/1.png
     // @grant          none
     // ==/UserScript==
+
+    //NOTICE: Please back up your phrases in a separate text document as well. Otherwise they'll be lost if I update this script, though that shouldn't be often.
      
     // Definitions used throughout the script
     const random = (limit) => Math.ceil(Math.random() * limit);
