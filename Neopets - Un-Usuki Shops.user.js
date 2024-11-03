@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Neopets - Un-Usuki Shops
 // @namespace    http://tampermonkey.net/
-// @version      2024-11-02
+// @version      2024-11-03
 // @description  Replaces that repetitive avatar shopkeeper image with a random one.
 // @author       Lendri Mujina
 // @include      *://*.neopets.com/browseshop*
