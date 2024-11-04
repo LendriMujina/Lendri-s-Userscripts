@@ -7,7 +7,8 @@
 // @match        https://tvtropes.org/pmwiki/pmwiki.php/*
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/LendriMujina/Lendri-s-Userscripts/refs/heads/main/TV%20Tropes%20-%20Colored%20Subwikis
-// @icon         https://tvtropes.org/favicon.ico
+// @updateURL    https://raw.githubusercontent.com/LendriMujina/Lendri-s-Userscripts/refs/heads/main/TV%20Tropes%20-%20Colored%20Subwikis
+// @icon         https://pets.neopets.com/cp/mh9qz63z/1/1.png
 // ==/UserScript==
 (function () {
   'use strict';
