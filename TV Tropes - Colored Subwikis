@@ -2,11 +2,12 @@
 // @name         TV Tropes - Colored Subwikis
 // @namespace    https://stay.app/
 // @version      2024-11-03
-// @description  Restores the old color scheme to YMMV pages
+// @description  Restores the old color scheme to subwiki pages
 // @author       Lendri Mujina
 // @match        https://*.tvtropes.org/pmwiki/pmwiki.php/*
 // @match        https://tvtropes.org/pmwiki/pmwiki.php/*
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/LendriMujina/Lendri-s-Userscripts/refs/heads/main/TV%20Tropes%20-%20Colored%20Subwikis
 // @icon         https://tvtropes.org/favicon.ico
 // ==/UserScript==
 (function () {
